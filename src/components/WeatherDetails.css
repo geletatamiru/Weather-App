@@ -1,0 +1,13 @@
+.weather-details-container {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+}
+.weather-details-container p {
+  font-size: 1.6rem;
+  font-weight: 800;
+}
+.weather-details-container .properties {
+  display: flex;
+  flex-direction: column;
+}
